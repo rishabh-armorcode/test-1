@@ -11,6 +11,8 @@ The application contains:
   - Swagger JSON file - http://localhost:8090/swagger-json
 - nginx web server that serves the client and acts as a reverse proxy for the server's API requests
 
+//passwd_1234
+
 //password 
 //pswd_1234
 
